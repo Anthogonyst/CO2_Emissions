@@ -6,6 +6,11 @@ For the interactive version of the Tableau Dashboard, come see this Tableau Publ
 Alternatively, there is a pdf version provided that may be opened instead.
 If the original data and Python scripts are desired, see the src folder.
 
+New:
+https://public.tableau.com/views/CO2EmissionsRework/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Old:
 https://public.tableau.com/views/CO2EmissionsbyVehicleClassandFuel/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
 ![Tableau Dashboard](img/Dashboard1.png)
